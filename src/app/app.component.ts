@@ -1,13 +1,13 @@
-import { Component } from '@angular/core';
+import { Component,OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss']
 })
-export class AppComponent {
-  title = 'Omni Frontend Interview';
-
+export class AppComponent{
+  title = 'Dymatize Amazon.com Customer Reviews';
+  
   /*
     Sample Review Data: Dymatize Amazon.com customer reviews for October and November 2018
   */

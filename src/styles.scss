@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+
+.table {
+    max-height: 600px;
+    max-width: 100%;
+    overflow-x:auto;
+    }
+ 
+ .title {
+     text-align: center;
+     padding: 10px;
+     font-family: 'Times New Roman', Times, serif;
+ }
